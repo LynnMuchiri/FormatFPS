@@ -8,3 +8,12 @@ Game Engine: Unity  (https://unity.com/download)
 
 Version Control: Git  
 3D Modelling: Blender (https://www.blender.org/download/)
+
+## Game controls
+This section helps you navigate through the game and know whcih buttons to use while playing the game:
+- W key: Move forward
+- A key: Move left
+- S key: Move backward
+- D key: Move right
+- Spacebar: To Jump
+- Tab: Pause/menu
