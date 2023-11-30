@@ -17,3 +17,9 @@ This section helps you navigate through the game and know whcih buttons to use w
 - D key: Move right
 - Spacebar: To Jump
 - Tab: Pause/menu
+
+## Contributions
+To contribute:
+    -Fork the repository.
+    -Create a branch on your forked repository.
+    -Submit a pull request.
